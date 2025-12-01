@@ -7,7 +7,7 @@
       "id": "0"
     }
   ],
-  "main": "messagelocal.ts",
+  "main": "messagelocal.js",
   "vendetta": {
     "icon": "ChatIcon"
   },
